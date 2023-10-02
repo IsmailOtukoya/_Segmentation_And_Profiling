@@ -1,4 +1,4 @@
-#Customer Segmentation and Profiling Project
+Customer Segmentation and Profiling Project
 
 Overview
 This project focuses on customer segmentation and profiling using a dataset of bank transactions. The goal is to segment customers based on their transaction behavior and other attributes, providing insights that can inform marketing and business strategies.
